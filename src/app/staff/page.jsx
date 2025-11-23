@@ -32,7 +32,7 @@ export default function StaffPage() {
               />
               <div className="card-body p-4">
                 <h5 className="card-title fw-bold text-primary fs-3 mb-1">
-                  Jane Mwangi
+                  Jonathan Weche
                 </h5>
                 <p className="text-info fw-semibold mb-3">
                   <i className="bi bi-person-fill-gear me-2"></i>
@@ -55,7 +55,7 @@ export default function StaffPage() {
               />
               <div className="card-body p-4">
                 <h5 className="card-title fw-bold text-primary fs-3 mb-1">
-                  David Kimani
+                  Keith Wamoyi
                 </h5>
                 <p className="text-info fw-semibold mb-3">
                   <i className="bi bi-person-fill-check me-2"></i>
