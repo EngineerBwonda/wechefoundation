@@ -67,11 +67,10 @@ export default function Home() {
               priority
             />
             <div className="carousel-caption d-none d-md-block">
-              <h5 className="display-4 fw-bold text-white">
-                First slide label
-              </h5>
+              <h5 className="display-4 fw-bold text-white">WECH FOUNDATION</h5>
               <p className="lead text-white">
-                Some representative placeholder content for the first slide.
+                Giving Hope, Changing Lives: Empowering Communities for a Better
+                Tomorrow.
               </p>
             </div>
           </div>
