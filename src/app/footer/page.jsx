@@ -74,7 +74,7 @@ export default function Footer() {
                   href="tel:+254712345678"
                   className="text-white hover-text-primary"
                 >
-                  +254 712 345 678 {/* ← CHANGE THIS */}
+                  0703659064 {/* ← CHANGE THIS */}
                 </a>
               </li>
               <li className="mb-3">

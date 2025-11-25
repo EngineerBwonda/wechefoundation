@@ -1,0 +1,6 @@
+/* src/app/gallery/gallery.module.css */
+.galleryImage {
+  height: 500px !important;
+  object-fit: cover;
+  width: 100%;
+}

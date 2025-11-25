@@ -10,6 +10,7 @@ import ContactUsPage from "./contactUs/page";
 import LocationPage from "./location/page";
 import Navbar from "./navbar/page";
 import Footer from "./footer/page";
+import GalleryPage from "./gallery/page";
 
 export default function Home() {
   return (
@@ -19,8 +20,9 @@ export default function Home() {
 
       <GridPart />
       <GridPart2 />
+      <GalleryPage />
       <StaffPage />
-      {/* <About /> */}
+      <About />
       <ContactUsPage />
       <LocationPage />
       <Footer />
